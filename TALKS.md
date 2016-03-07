@@ -4,7 +4,9 @@
   - Andreas Müller
 - **Automated FE Testing**
   - Benedikt Kastl
-- **React - ES6 + Browserity + Flux + Redux**
+- **React - ES6 + Browserify + Flux + Redux**
   - Hautzi
 - **X-Tag**
   - David Lorenz
+- **RiotJS**
+  - Martin Muzatko
