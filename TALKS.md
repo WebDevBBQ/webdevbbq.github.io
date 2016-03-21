@@ -2,7 +2,7 @@
 ----------
 - **SR MQ (PHP/Rabbit MQ)**
   - Andreas Müller
-- **Design-First mit Swagger 
+- **Design-First mit Swagger**
   - Fabian Ihl
 - **Automated FE Testing**
   - Benedikt Kastl
