@@ -2,13 +2,13 @@
 ----------
 - **SR MQ (PHP/Rabbit MQ)**
   - Andreas Müller
-- **Design-First mit Swagger**
+- [**Design-First mit Swagger**](http://akuryou.github.io/introduction-to-swagger/)
   - Fabian Ihl
-- **Automated FE Testing**
+- [**Automated FE Testing**](http://slides.com/bkastl/frontend-testing#/)
   - Benedikt Kastl
 - **React - ES6 + Browserify + Flux + Redux**
   - Hautzi
-- **X-Tag**
+- [**X-Tag**](http://activenode.github.io/p/x-tag/)
   - David Lorenz
-- **RiotJS**
+- [**RiotJS**](http://slides.com/martinmuzatko/riotjs-introduction/)
   - Martin Muzatko
