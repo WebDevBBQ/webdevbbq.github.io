@@ -6,8 +6,6 @@
   - Fabian Ihl
 - **Automated FE Testing** ([slides](http://slides.com/bkastl/frontend-testing#/))
   - Benedikt Kastl
-- **React - ES6 + Browserify + Flux + Redux** (verschoben)
-  - Hautzi
 - **X-Tag** ([slides](http://activenode.github.io/p/x-tag/))
   - David Lorenz
 - **RiotJS** ([slides](http://slides.com/martinmuzatko/riotjs-introduction/))
